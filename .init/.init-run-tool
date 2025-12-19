@@ -1,0 +1,4 @@
+{
+    "command": "sudo ./startup.sh && cd db_visualizer && PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/tmp/kavia/workspace/code-generation/personal-diary-calendar-4338-4369/diary_database"
+}
